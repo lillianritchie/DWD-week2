@@ -9,8 +9,20 @@ html{
 }
 body{
     /*font we want, second replacement font, and then whatever sans serif is avail*/
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Archivo', sans-serif;
+    background-color: #4cbaeb;
+    color: white;
 }
 .debug{
     border: 1px solid black;
 }
+.dates{}
+
+.dates__block{}
+
+.dates__item{
+    list-style: none;
+    color: black;
+}
+
+.international{}
