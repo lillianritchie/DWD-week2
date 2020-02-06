@@ -5,13 +5,14 @@
     box-sizing: border-box;
 }
 html{
-    font-size: 8px;
+    font-size: 1.2vw;
 }
 body{
     /*font we want, second replacement font, and then whatever sans serif is avail*/
     font-family: 'Archivo', sans-serif;
     background-color: #4cbaeb;
     color: white;
+    margin: 3rem;
 }
 .debug{
     border: 1px solid black;
