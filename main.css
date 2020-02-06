@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 html{
-    font-size: 14px;
+    font-size: 8px;
 }
 body{
     /*font we want, second replacement font, and then whatever sans serif is avail*/
@@ -38,25 +38,35 @@ body{
 }
 
 .empty{
-    height: 25vw;
+    height: 15vh;
 }
 
-.international{
-    font-size: 2rem;
+.titles{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin:0;
+}
+.titles__spacing{
+    width: 25%;
+    flex-shrink: 0;
+}
+.titles__international{
+    font-size: 3rem;
 }
 
-.festival{
-    font-size: 4rem;
+.titles__festival{
+    font-size: 4.5rem;
 }
 
-.theater{
-    font-size: 6rem;
+.titles__theater{
+    font-size: 10rem;
 }
 
-.city{
-    font-size: 8rem;
+.titles__city{
+    font-size: 16rem;
 }
 
-.year{
-    font-size: 12rem;
+.titles__year{
+    font-size: 24rem;
 }
