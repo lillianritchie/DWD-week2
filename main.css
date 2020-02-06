@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 html{
-    font-size: 16px;
+    font-size: 14px;
 }
 body{
     /*font we want, second replacement font, and then whatever sans serif is avail*/
@@ -16,13 +16,47 @@ body{
 .debug{
     border: 1px solid black;
 }
-.dates{}
+.info{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+.dates{
+    width: 25%;
+    padding: 0.5rem;
+}
 
-.dates__block{}
+.dates__block{
+    border-color: solid black;
+    border-bottom: 1px;
+    margin-bottom: 2px;
+}
 
 .dates__item{
     list-style: none;
     color: black;
 }
 
-.international{}
+.empty{
+    height: 25vw;
+}
+
+.international{
+    font-size: 2rem;
+}
+
+.festival{
+    font-size: 4rem;
+}
+
+.theater{
+    font-size: 6rem;
+}
+
+.city{
+    font-size: 8rem;
+}
+
+.year{
+    font-size: 12rem;
+}
