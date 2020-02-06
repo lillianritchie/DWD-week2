@@ -25,6 +25,7 @@ body{
 .dates{
     width: 25%;
     padding: 0.5rem;
+    height: 35vh;
 }
 
 .dates__block{
@@ -33,6 +34,10 @@ body{
     margin-bottom: 2px;
 }
 
+.dates__block:hover{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5rem;
+}
 .dates__item{
     list-style: none;
     color: black;
