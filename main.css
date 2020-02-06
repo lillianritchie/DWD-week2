@@ -1,0 +1,16 @@
+*{
+    padding: 0 0 0 0;
+    /* top, right, bottom, left */
+    margin: 0 0 0 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 16px;
+}
+body{
+    /*font we want, second replacement font, and then whatever sans serif is avail*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+.debug{
+    border: 1px solid black;
+}
