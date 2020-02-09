@@ -67,16 +67,21 @@ This is README template is licensed according to [Attribution 4.0 International 
 
 * Joseph Muller (Original Poster Design)
 
-***
-***
-***
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
 * I made all of the element sizes in this site relative to the window width to maximize its ability to stay within the general grid plan.
 * Since the event detail text can get very small, I added a hover feature that enlarges event text when you hover over the event (the text doesn't enlarge TOO much, because larger sizes broke the grid and/or spilled outside of the window)
+
 <!-- How you built this project - Include images, gifs, and notes here -->
 ## Process & Documentation
+* I started working out how to make this work by sketching some hand drawn notes on the image in figma:
+![Logo](reference/figma.png)
+* Then wound up moving my prep work into photoshop, because I wanted to be able to play with all the adobe fonts, and it just felt easier to do it from there (I'm also just more comfortable with the grids, rulers, and guide markers here, so it was easier to backwards-engineer the grid distances).
+
+* the horizontal grid was really easy and obvious to work out, but the vertical grid was a little less even, so i wound up copy/pasting several translucent rectangles to get a sense of how to estimate the text size ratios. 
+* I also used photoshop to test various fonts by overlaying them on top of the existing text. 
+![Logo](reference/photoshop.png)
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
