@@ -87,6 +87,8 @@ This is README template is licensed according to [Attribution 4.0 International 
 ## Challenges & Struggles
 * I'm struggling with borders- the original poster has a very thin line between event details, and I wanted to place borders only on the bottoms of the list boxes... but for whatever reason I can't seem to make that work!
 
+* The most surprising challenge I came across was actually picking a font- it was surprisingly difficult to find a sans serif font with the right height/width ratio that also matched the look and tone of this font! I wound up using the google font "Archivo", which was really convenient to add to the site!
+
 <!-- Any questions you have -->
 ## Questions
 * How can you place border lines just on one side of a border box? is that possible? Is there a way to just insert a simple line?
