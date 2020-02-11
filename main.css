@@ -30,8 +30,10 @@ body{
 
 
 .dates__block{
-    border-color: solid black;
-    border-bottom: 1px;
+    border-bottom: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
     margin-bottom: 2px;
 }
 
@@ -42,7 +44,7 @@ body{
 .dates__item{
     list-style: none;
     color: black;
-}
+}    
 
 .empty{
     height: 15vh;
